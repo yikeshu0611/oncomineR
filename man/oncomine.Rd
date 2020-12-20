@@ -4,10 +4,10 @@
 \alias{oncomine}
 \title{Process oncomine data to dataframe}
 \usage{
-oncomine(x)
+oncomine(mhtml)
 }
 \arguments{
-\item{x}{one or more data files of MHTML plugin}
+\item{mhtml}{one or more data files of MHTML plugin}
 }
 \value{
 dataframe
